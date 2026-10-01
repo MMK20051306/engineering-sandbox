@@ -54,6 +54,7 @@ Centre Trou N°1 (Bas-Gauche) : X=25mm , Y=25mm
 Centre Trou N°2 (Bas-Droite) : X=80mm , Y=25mm
 Centre Trou N°3 (Haut-Gauche) : X=25mm , Y=80mm
 Centre Trou N°4 (Centre géométrique) : X=70mm , Y=70mm
+![Croquis Manuel de la Phase 0](schema_principe_phase0.png)
 D. VÉRIFIER à l'aide d’une check-list "Prêt pour la CAO"
 * [ ] **Forme de base validée :** Triangle rectangle de 150 × 150 mm 
 * [ ] **Nombre et géométrie des trous validés :** 4 trous de ∅ 8,5 mm
